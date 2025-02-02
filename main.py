@@ -2,8 +2,8 @@ import telebot
 import requests
 
 # Replace with your own values
-API_TOKEN = '7501130877:AAFutHyr8BqqyWukFNqZL5IP8hchRIgs6ME'
-SERPAPI_KEY = "445e81af4ed5cbab00b70dc15dcffbdbc7af2e462ddd171cf15c10744ad9559d"
+API_TOKEN = 'API_TOKEN'
+SERPAPI_KEY = "SERPAPI_KEY"
 
 bot = telebot.TeleBot(API_TOKEN)
 
